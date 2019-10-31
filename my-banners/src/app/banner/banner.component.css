@@ -1,0 +1,14 @@
+.screenDiv {
+    height: 500px;
+    width: 800px;
+    background: #ccc;
+    position: relative;
+    top: 0;
+    left: 0;
+    margin: auto; 
+}
+.banerDiv{
+    position: absolute;
+    margin: 0px;
+    cursor: move;
+}
